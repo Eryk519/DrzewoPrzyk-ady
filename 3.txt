@@ -1,0 +1,20 @@
+from typing import Any, List
+
+
+class TreeNode:
+    value: Any
+    children: List['TreeNode']
+
+    def __init__(self):
+        self.value
+        self.children = list['TreeNode']
+
+    def add(self, child='TreeNode'):
+        children = child
+
+class Tree:
+    root: TreeNode
+
+    def __init__(self):
+        self.root = root
+        self.children
